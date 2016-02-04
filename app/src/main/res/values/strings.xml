@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Activity Pal</string>
+    <string-array name= "activity_options">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Left-lift</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+        <item>Pullup</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-climbing</item>
+        <item>Calories</item>
+    </string-array>
+
+    <string-array name="conversion_units">
+        <item>reps</item>
+        <item>minutes</item>
+        <item>calories</item>
+    </string-array>
+
+
+    <integer-array name="conversion_rates">
+        <item>350</item>
+        <item>200</item>
+        <item>225</item>
+        <item>25</item>
+        <item>25</item>
+        <item>10</item>
+        <item>100</item>
+        <item>12</item>
+        <item>20</item>
+        <item>12</item>
+        <item>13</item>
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+
+</resources>
